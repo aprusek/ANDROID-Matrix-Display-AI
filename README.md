@@ -10,19 +10,19 @@ Text is green on a black background.<BR>
 scroll speed should be 1 page per 5 seconds<BR><BR>
 OUTPUT was HexScroll.APK<BR><BR>
 
-<img width="200" height="2393" alt="Screenshot_20261121-163331" src="https://github.com/user-attachments/assets/7f110086-eedd-4723-9dfa-88bd34cb56a7" />
+<img width="270" height="600" alt="Screenshot_20261121-163331" src="https://github.com/user-attachments/assets/7f110086-eedd-4723-9dfa-88bd34cb56a7" />
 
 
 <HR/>
 Using the same character size and scroll speed, create an APK to display a "Matrix movie" style screen<BR><BR>
 OUTPUT was MatrixRain.APK
-<img width="1200" height="2393" alt="Screenshot_20261121-163348" src="https://github.com/user-attachments/assets/5aa87ac4-0d15-42df-b4ed-e940492faf6a" />
+<img width="270" height="600" alt="Screenshot_20261121-163348" src="https://github.com/user-attachments/assets/5aa87ac4-0d15-42df-b4ed-e940492faf6a" />
 
 
 <HR/>
 Using character half the size and same  scroll speed, create an APK to display a "Matrix rain" call this "Matrix Rain 2"<BR><BR>
 OUTPUT was MatricRain2.APK
-<img width="1075" height="2393" alt="Screenshot_20261121-163358" src="https://github.com/user-attachments/assets/c6dadf38-934c-44f8-8832-e54aedbe8c3c" />
+<img width="270" height="600" alt="Screenshot_20261121-163358" src="https://github.com/user-attachments/assets/c6dadf38-934c-44f8-8832-e54aedbe8c3c" />
 
 
 
